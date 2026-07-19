@@ -9,4 +9,4 @@ class Solution:
             if number not in mydict:
                 mydict[nums[i]]=i
             else:
-                return [i,mydict[number]]
+                return [mydict[number],i]
