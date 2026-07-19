@@ -1,11 +1,12 @@
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
         n=len(nums)
+        mydict={}
+
         for i in range(0,n):
-            for j in range(i+1,n):
-                sum=0
-                sum=nums[i]+nums[j]
+            number=target-nums[i]
 
-                if sum==target:
-                    return [i,j]
-
+            if number not in mydict:
+                mydict[nums[i]]=i
+            else:
+                return [i,mydict[number]]
