@@ -1,15 +1,14 @@
 class Solution:
     def threeSumClosest(self, nums: List[int], target: int) -> int:
-        closest_sum = nums[0] + nums[1] + nums[2]
-        nums.sort()
         n=len(nums)
+        closest_sum=nums[0]+nums[1]+nums[2]
+        nums.sort()
+
         for i in range(0,n-2):
-            if i>0 and nums[i]==nums[i-1]:
-                continue
             left=i+1
             right=n-1
 
-            while left< right:
+            while left <right:
                 curr_sum=nums[i]+nums[left]+nums[right]
 
                 if curr_sum==target:
