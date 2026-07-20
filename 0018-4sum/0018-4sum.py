@@ -1,6 +1,6 @@
 class Solution:
     def fourSum(self, nums: List[int], target: int) -> List[List[int]]:
-        result=set()
+        result=[]
         n=len(nums)
         nums.sort()
 
@@ -18,10 +18,17 @@ class Solution:
                     sum=nums[i]+nums[j]+nums[left]+nums[right]
 
                     if sum==target:
-                        result.add((nums[i],nums[j],nums[left],nums[right]))
+                        result.append([nums[i],nums[j],nums[left],nums[right]])
+                        left+=1
+                        right-=1
 
-                    if sum<target:
+                        while left<right and nums[left]==nums[left-1]:
+                            left+=1
+
+                        while left < right and nums[right] == nums[right + 1]:
+                            right-=1
+                    elif sum<target:
                         left+=1
                     else:
                         right-=1
-        return [list(item) for item in result]
+        return result
