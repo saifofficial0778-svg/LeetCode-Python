@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0018-4sum) |
 | [0217-contains-duplicate](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
@@ -48,9 +49,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0560-subarray-sum-equals-k) |
 ## Linked List
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0083-remove-duplicates-from-sorted-list) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
