@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0018-4sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0844-backspace-string-compare](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
@@ -59,4 +60,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0242-valid-anagram) |
+| [0844-backspace-string-compare](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0844-backspace-string-compare) |
+## Stack
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0844-backspace-string-compare) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
