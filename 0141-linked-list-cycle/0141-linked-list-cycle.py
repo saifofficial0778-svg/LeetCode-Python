@@ -18,8 +18,8 @@ class Solution:
 
             if slow==fast:
                 return True
-        if fast==None or fast.next==None:
-            return False
+        
+        return False
             
             
         return True
