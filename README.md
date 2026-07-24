@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0287-find-the-duplicate-number) |
+| [0485-max-consecutive-ones](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0713-subarray-product-less-than-k](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0713-subarray-product-less-than-k) |
