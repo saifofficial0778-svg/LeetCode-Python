@@ -9,16 +9,10 @@ class Solution:
                 pos.append(num)
             else:
                 neg.append(num)
-        p1=0
-        p2=0
+       
         res=[0]*n
-        for i in range(0,n):
-            if i%2==0:
-                res[i]=pos[p1]
-                p1+=1
-            else:
-                res[i]=neg[p2]
-                p2+=1
+        res[0::2] = pos
+        res[1::2] = neg
         return res
 
        
