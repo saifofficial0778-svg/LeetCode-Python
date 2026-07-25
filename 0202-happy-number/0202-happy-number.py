@@ -1,17 +1,23 @@
 class Solution:
     def isHappy(self, n: int) -> bool:
-        seen=set()
-
-        while n!=1:
-            seen.add(n)
+        def get_next(n):
             sum=0
             while n>0:
                 ld=n%10
                 sum+=ld*ld
                 n=n//10
+            return sum
+        
+        slow=n
+        fast=get_next(n)
+        while fast!=1 and slow!=fast:
+            slow=get_next(slow)
+            fast=get_next(get_next(fast))
 
-            n=sum
+        return fast==1
 
-            if sum in seen:
-                return False
-        return True
+        
+
+           
+           
+        
