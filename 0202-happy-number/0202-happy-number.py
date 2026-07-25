@@ -1,18 +1,17 @@
 class Solution:
     def isHappy(self, n: int) -> bool:
         seen=set()
-        
-        while n!=1 and n not in seen:
+
+        while n!=1:
             seen.add(n)
             sum=0
-
             while n>0:
-                last_digit=n%10
-                sum+=last_digit*last_digit
+                ld=n%10
+                sum+=ld*ld
                 n=n//10
-            n=sum
-        return n == 1
 
-           
-           
-        
+            n=sum
+
+            if sum in seen:
+                return False
+        return True
