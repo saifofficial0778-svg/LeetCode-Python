@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0268-missing-number) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0283-move-zeroes) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0268-missing-number) |
 ## Bit Manipulation
