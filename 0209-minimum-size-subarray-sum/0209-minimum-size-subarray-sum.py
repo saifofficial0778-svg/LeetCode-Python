@@ -9,8 +9,7 @@ class Solution:
             sum+=nums[right]
            
             while sum>=target:
-                length=right-left+1
-                min_length=min(min_length,length)
+                min_length=min(min_length,right-left+1)
                 sum-=nums[left]
                 left+=1
             right+=1
