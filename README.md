@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0713-subarray-product-less-than-k](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0724-find-pivot-index) |
+| [0904-fruit-into-baskets](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0904-fruit-into-baskets) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0560-subarray-sum-equals-k) |
+| [0904-fruit-into-baskets](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0904-fruit-into-baskets) |
 ## Linked List
 |  |
 | ------- |
