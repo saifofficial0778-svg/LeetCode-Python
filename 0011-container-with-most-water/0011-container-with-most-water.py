@@ -1,18 +1,15 @@
 class Solution:
     def maxArea(self, height: List[int]) -> int:
-        max_sum=-1
-        n=len(height)
+        max_area=float('-inf')
         left=0
-        right=n-1
+        right=len(height)-1
         while left<right:
-            if height[right]>height[left]:
-                sum=min(height[left],height[right])*(right-left)
-                max_sum=max(max_sum,sum)
+            curr_area=min(height[left],height[right])*(right-left)
+            max_area=max(max_area,curr_area)
+
+            if height[left]<height[right]:
                 left+=1
             else:
-                sum=min(height[left],height[right])*(right-left)
-                max_sum=max(max_sum,sum)
                 right-=1
-        
-                
-        return max_sum
+        return max_area
+
