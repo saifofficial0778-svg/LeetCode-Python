@@ -16,8 +16,8 @@ class Solution:
                 if basket[fruits[left]]==0:
                     del basket[fruits[left]]
                 left+=1
-            if len(basket)<=2:    
-                length=max(length,right-left+1)
+               
+            length=max(length,right-left+1)
         return length
                 
        
