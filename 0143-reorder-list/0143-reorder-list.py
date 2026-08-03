@@ -10,12 +10,13 @@ class Solution:
         """
         slow=head
         fast=head
+
         while fast and fast.next:
             slow=slow.next
             fast=fast.next.next
-        
-        curr=slow.next
-        slow.next=None
+
+        curr = slow.next
+        slow.next = None
         prev=None
 
         while curr:
@@ -23,13 +24,15 @@ class Solution:
             curr.next=prev
             prev=curr
             curr=next_node
-        first_half=head
-        second_half=prev
-        while second_half:
-            p1=first_half.next
-            p2=second_half.next
-            first_half.next=second_half
-            second_half.next=p1
-            first_half=p1
-            second_half=p2
+
+        first=head
+        second=prev
+        
+        while second:
+            tmp1=first.next
+            tmp2=second.next
+            first.next=second
+            second.next=tmp1
+            first=tmp1
+            second=tmp2
             
