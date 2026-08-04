@@ -207,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0073-set-matrix-zeroes) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
