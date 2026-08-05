@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0567-permutation-in-string) |
 | [0713-subarray-product-less-than-k](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0904-fruit-into-baskets) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0904-fruit-into-baskets) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0844-backspace-string-compare) |
 ## Stack
