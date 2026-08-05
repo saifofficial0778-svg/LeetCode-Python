@@ -1,18 +1,17 @@
 class Solution:
     def minWindow(self, s: str, t: str) -> str:
-        n1=len(t)
-        n2=len(s)
         mydict={}
-        for ch in t:
-            if ch not in mydict:
-                mydict[ch]=1
-            else:
-                mydict[ch]+=1
-
-        min_len = float('inf')
+        n=len(t)
         left=0
-        matched=0
-        for right in range(n2):
+        matched=0       
+        min_len=float('inf')
+        for i in range(n):
+            if t[i] not in mydict:
+                mydict[t[i]]=1
+            else:
+                mydict[t[i]]+=1
+        
+        for right in range(len(s)):
             if s[right] in mydict:
                 mydict[s[right]]-=1
                 if mydict[s[right]]>=0:
@@ -29,3 +28,10 @@ class Solution:
         if min_len==float('inf'):
             return ""
         return s[start:start+min_len]
+
+
+            
+
+
+        
+        
