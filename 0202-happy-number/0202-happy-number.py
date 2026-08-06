@@ -7,10 +7,13 @@ class Solution:
                 sum+=ld*ld
                 n=n//10
             return sum
+        
         slow=n
         fast=get_next(n)
-        while fast!=1 and slow!=fast:
+
+        while slow!=fast and fast!=1:
             slow=get_next(slow)
             fast=get_next(get_next(fast))
+
         return fast==1
         
