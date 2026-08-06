@@ -12,4 +12,5 @@ class Solution:
         for i in range(n-1,-1,-1):
             ans[i]*=suffix
             suffix*=nums[i]
+        
         return ans
