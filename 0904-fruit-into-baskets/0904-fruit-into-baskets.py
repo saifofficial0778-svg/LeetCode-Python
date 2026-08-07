@@ -1,23 +1,19 @@
 class Solution:
     def totalFruit(self, fruits: List[int]) -> int:
-        n=len(fruits)
         basket={}
+        n=len(fruits)
         left=0
-        length=0
-        for right in range(n):
+        max_len=0
+        for right in range(0,n):
             if fruits[right] not in basket:
-                    basket[fruits[right]]=1
+                basket[fruits[right]]=1
             else:
                 basket[fruits[right]]+=1
-            
             while len(basket)>2:
                 basket[fruits[left]]-=1
-
                 if basket[fruits[left]]==0:
                     del basket[fruits[left]]
                 left+=1
-               
-            length=max(length,right-left+1)
-        return length
-                
-       
+            max_len=max(max_len,right-left+1)
+        return max_len
+        
