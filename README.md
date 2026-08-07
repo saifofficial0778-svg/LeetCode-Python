@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0287-find-the-duplicate-number) |
 ## Quicksort
 |  |
 | ------- |
@@ -228,4 +229,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0075-sort-colors) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
