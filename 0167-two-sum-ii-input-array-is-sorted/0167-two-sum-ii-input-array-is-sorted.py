@@ -3,13 +3,14 @@ class Solution:
         n=len(numbers)
         left=0
         right=n-1
-
+        
         while left<right:
-            sum=numbers[left]+numbers[right]
-
-            if sum==target:
+            curr_sum=0
+            curr_sum=numbers[left]+numbers[right]
+            if curr_sum==target:
                 return [left+1,right+1]
-            elif sum>target:
+            elif curr_sum>target:
                 right-=1
             else:
                 left+=1
+            
