@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0018-4sum) |
+| [0035-search-insert-position](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0053-maximum-subarray) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0268-missing-number) |
