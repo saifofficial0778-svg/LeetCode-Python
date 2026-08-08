@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0567-permutation-in-string) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0412-fizz-buzz) |
 | [0844-backspace-string-compare](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0844-backspace-string-compare) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Greedy
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0412-fizz-buzz) |
 ## Bit Manipulation
 |  |
 | ------- |
