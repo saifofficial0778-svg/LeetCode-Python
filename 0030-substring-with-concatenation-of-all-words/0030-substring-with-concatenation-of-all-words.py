@@ -21,4 +21,3 @@ class Solution:
             if temp==mydict:
                 res.append(i)
         return res
-
