@@ -11,7 +11,7 @@ class Solution:
         while fast and fast.next:
             slow=slow.next
             fast=fast.next.next
-        
+
         curr=slow
         prev=None
 
@@ -20,8 +20,10 @@ class Solution:
             curr.next=prev
             prev=curr
             curr=next_node
+
         slow=head
         curr=prev
+
         while curr:
             if slow.val!=curr.val:
                 return False
