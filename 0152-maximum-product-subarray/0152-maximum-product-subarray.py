@@ -10,7 +10,7 @@ class Solution:
             max_pro=max(max_pro,left_pro,right_pro)
             if left_pro==0:
                 left_pro=1
-            elif right_pro==0:
+            if right_pro==0:
                 right_pro=1
         return max_pro
 
