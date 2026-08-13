@@ -22,4 +22,4 @@ class Solution:
         if max_sum<0:
             return max_sum
             
-        return max(max_sum,min_sum,total-min_sum)
+        return max(max_sum,total-min_sum)
