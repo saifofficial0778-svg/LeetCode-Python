@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0713-subarray-product-less-than-k](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0724-find-pivot-index) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0904-fruit-into-baskets](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0287-find-the-duplicate-number) |
 | [0713-subarray-product-less-than-k](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0713-subarray-product-less-than-k) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/1004-max-consecutive-ones-iii) |
 ## Sliding Window
 |  |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0567-permutation-in-string) |
 | [0713-subarray-product-less-than-k](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0713-subarray-product-less-than-k) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0904-fruit-into-baskets](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
@@ -115,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0724-find-pivot-index) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/1004-max-consecutive-ones-iii) |
 ## Hash Table
@@ -254,9 +258,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0918-maximum-sum-circular-subarray](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
 | ------- |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0918-maximum-sum-circular-subarray](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0918-maximum-sum-circular-subarray) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 <!---LeetCode Topics End-->
