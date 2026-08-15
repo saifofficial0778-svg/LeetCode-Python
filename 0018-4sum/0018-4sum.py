@@ -1,9 +1,8 @@
 class Solution:
     def fourSum(self, nums: List[int], target: int) -> List[List[int]]:
-        res=[]
-        nums.sort()
         n=len(nums)
-
+        nums.sort()
+        res=[]
         for i in range(0,n-3):
             if i>0 and nums[i]==nums[i-1]:
                 continue
@@ -12,21 +11,22 @@ class Solution:
                     continue
                 left=j+1
                 right=n-1
+                while left< right:
+                    curr_sum=0
+                    curr_sum=nums[i]+nums[j]+nums[left]+nums[right]
 
-                while left <right:
-                    sum=nums[i]+nums[j]+nums[left]+nums[right]
-
-                    if sum==target:
+                    if curr_sum==target:
                         res.append([nums[i],nums[j],nums[left],nums[right]])
                         left+=1
                         right-=1
 
                         while left<right and nums[left]==nums[left-1]:
                             left+=1
-                        while left < right and nums[right]==nums[right+1]:
+                        while left<right and nums[right]==nums[right+1]:
                             right-=1
-                    elif sum>target:
+                    elif curr_sum>target:
                         right-=1
                     else:
                         left+=1
         return res
+                
