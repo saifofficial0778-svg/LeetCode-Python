@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0287-find-the-duplicate-number) |
+| [0327-count-of-range-sum](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0327-count-of-range-sum) |
 | [0485-max-consecutive-ones](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0485-max-consecutive-ones) |
 | [0525-contiguous-array](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0560-subarray-sum-equals-k) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0287-find-the-duplicate-number) |
+| [0327-count-of-range-sum](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0327-count-of-range-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0713-subarray-product-less-than-k) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/1004-max-consecutive-ones-iii) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0169-majority-element) |
+| [0327-count-of-range-sum](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0327-count-of-range-sum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0918-maximum-sum-circular-subarray) |
 ## Counting
 |  |
@@ -271,4 +274,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0327-count-of-range-sum) |
+## Segment Tree
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0327-count-of-range-sum) |
+## Merge Sort
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0327-count-of-range-sum) |
+## Ordered Set
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0327-count-of-range-sum) |
+## Treap
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0327-count-of-range-sum) |
 <!---LeetCode Topics End-->
