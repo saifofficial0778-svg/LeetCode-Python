@@ -17,5 +17,3 @@ class Solution:
             else:
                 mydict[prefix_sum]=i
         return max_len
-
-
