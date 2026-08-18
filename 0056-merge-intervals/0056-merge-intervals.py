@@ -13,7 +13,6 @@ class Solution:
             if end1>=start2:
                 end1=max(end1,end2)
             else:
-
                 res.append([start1,end1])
                 start1=start2
                 end1=end2
