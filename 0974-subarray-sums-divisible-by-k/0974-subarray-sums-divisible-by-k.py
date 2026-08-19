@@ -11,7 +11,7 @@ class Solution:
 
             if rem in  mydict:
                 count+=mydict[rem]
-            if rem not in mydict:
+            if rem not in mydict: 
                 mydict[rem]=1
             else:
                 mydict[rem]+=1
