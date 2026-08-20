@@ -6,8 +6,7 @@ class Solution:
         for i in range(0,n):
             if nums[i]==0:
                 nums[i]=-1
-            else:
-                nums[i]=1
+                
         curr_sum=0
         for i in range(0,n):
             curr_sum+=nums[i]
