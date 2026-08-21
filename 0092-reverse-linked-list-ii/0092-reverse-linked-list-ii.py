@@ -25,5 +25,4 @@ class Solution:
             curr=next_node
         before.next.next=curr
         before.next=prev
-        head=dummy.next
-        return head
+        return dummy.next
