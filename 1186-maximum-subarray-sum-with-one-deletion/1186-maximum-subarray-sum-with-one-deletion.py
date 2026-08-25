@@ -1,18 +1,18 @@
 class Solution:
     def maximumSum(self, arr: List[int]) -> int:
-        keep=arr[0]
-        ans=arr[0]
         delete=float('-inf')
-        curr=0
-
+        res=arr[0]
+        keep=arr[0]
+        curr_sum=0
         for i in range(1,len(arr)):
-            curr=arr[i]
+            curr_sum=arr[i]
 
             old_keep=keep
-            old_delete=delete
+            old_dlt=delete
 
-            keep=max(old_keep+curr,curr)
-            delete=max(old_delete+curr,old_keep)
-            ans=max(ans,keep,delete)
-        return ans
+            keep=max(old_keep+curr_sum,curr_sum)
+            delete=max(delete+curr_sum,old_keep)
+
+            res=max(res,keep,delete)
+        return res
         
