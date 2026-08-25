@@ -11,7 +11,7 @@ class Solution:
             old_dlt=delete
 
             keep=max(old_keep+curr_sum,curr_sum)
-            delete=max(delete+curr_sum,old_keep)
+            delete=max(old_dlt+curr_sum,old_keep)
 
             res=max(res,keep,delete)
         return res
