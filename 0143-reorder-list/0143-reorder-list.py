@@ -10,6 +10,7 @@ class Solution:
         """
         slow=head
         fast=head
+
         while fast and fast.next:
             slow=slow.next
             fast=fast.next.next
@@ -34,4 +35,6 @@ class Solution:
             second.next=p1
             first=p1
             second=p2
+
+
         
