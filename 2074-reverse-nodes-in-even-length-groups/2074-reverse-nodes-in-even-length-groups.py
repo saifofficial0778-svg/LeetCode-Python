@@ -5,50 +5,40 @@
 #         self.next = next
 class Solution:
     def reverseEvenLengthGroups(self, head: Optional[ListNode]) -> Optional[ListNode]:
+        dummy=ListNode(0)
+        dummy.next=head
 
-        dummy = ListNode(0)
-        dummy.next = head
+        grp_prev=dummy
+        grp_len=1
 
-        group_prev = dummy
-        group_len = 1
+        while grp_prev.next:
+            grp_end=grp_prev
+            actual_len=0
 
-        while group_prev.next:
-
-            group_end = group_prev
-            actual_len = 0
-
-            for _ in range(group_len):
-                if group_end.next is None:
+            for _ in range(grp_len):
+                if grp_end.next is None:
                     break
+                grp_end=grp_end.next
+                actual_len+=1
+            grp_next=grp_end.next
 
-                group_end = group_end.next
-                actual_len += 1
+            if actual_len%2==0:
 
-            next_group = group_end.next
+                curr=grp_prev.next
+                prev=grp_next
 
-            if actual_len % 2 == 0:
+                while curr!=grp_next:
+                    next_node=curr.next
+                    curr.next=prev
+                    prev=curr
+                    curr=next_node
 
-                curr = group_prev.next
-                prev = next_group
+                old_start=grp_prev.next
+                grp_prev.next=grp_end
 
-                for _ in range(actual_len):
-                    next_node = curr.next
-                    curr.next = prev
-                    prev = curr
-                    curr = next_node
-
-                old_start = group_prev.next
-                group_prev.next = group_end
-
-                group_prev = old_start
-
+                grp_prev=old_start
             else:
-                group_prev = group_end
-
-            group_len += 1
-
+                grp_prev=grp_end
+            grp_len+=1
         return dummy.next
-
-
-
-       
+                
