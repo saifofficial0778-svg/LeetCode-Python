@@ -7,11 +7,12 @@ class Solution:
     def reverseBetween(self, head: Optional[ListNode], left: int, right: int) -> Optional[ListNode]:
         dummy=ListNode(0)
         dummy.next=head
+
         before=dummy
 
         for _ in range(left-1):
             before=before.next
-        
+            
         curr=before.next
         prev=None
 
@@ -20,7 +21,8 @@ class Solution:
             curr.next=prev
             prev=curr
             curr=next_node
+
         before.next.next=curr
         before.next=prev
+
         return dummy.next
-        
