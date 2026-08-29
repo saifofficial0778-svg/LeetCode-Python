@@ -10,6 +10,7 @@ class Solution:
         dummy=ListNode(0)
         dummy.next=head
         prev=dummy
+
         while prev.next and prev.next.next:
             first=prev.next
             second=first.next
@@ -19,5 +20,3 @@ class Solution:
             prev.next=second
             prev=first
         return dummy.next
-
-        
