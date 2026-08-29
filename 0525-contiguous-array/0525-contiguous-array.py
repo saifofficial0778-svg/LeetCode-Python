@@ -1,28 +1,20 @@
 class Solution:
     def findMaxLength(self, nums: List[int]) -> int:
         n=len(nums)
-        mydict={0:-1}
-
-        for i in range(0,n):
+        max_len=float('-inf')
+        for i in range(n):
             if nums[i]==0:
                 nums[i]=-1
 
-        prefix_sum=0
-        max_len=0
+        mydict={0:-1}
+        curr_sum=0
         for i in range(n):
-            prefix_sum+=nums[i]
+            curr_sum+=nums[i]
 
-            if prefix_sum in mydict:
-                max_len=max(max_len,i-mydict[prefix_sum])
+            if curr_sum in mydict:
+                max_len=max(max_len,i-mydict[curr_sum])
             else:
-                mydict[prefix_sum]=i
+                mydict[curr_sum]=i
+        if max_len==float('-inf'):
+            return 0
         return max_len
-
-
-
-
-        
-
-            
-        
-        
