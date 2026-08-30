@@ -1,9 +1,9 @@
 class Solution:
     def totalFruit(self, fruits: List[int]) -> int:
-        max_len=float('-inf')
+        mydict={}
         left=0
         n=len(fruits)
-        mydict={}
+        max_len=float('-inf')
 
         for right in range(n):
             if fruits[right] not in mydict:
@@ -13,12 +13,8 @@ class Solution:
 
             while len(mydict)>2:
                 mydict[fruits[left]]-=1
-
                 if mydict[fruits[left]]==0:
                     del mydict[fruits[left]]
                 left+=1
-
             max_len=max(max_len,right-left+1)
         return max_len
-
-        
