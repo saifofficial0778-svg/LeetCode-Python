@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0713-subarray-product-less-than-k](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0739-daily-temperatures) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0904-fruit-into-baskets](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0918-maximum-sum-circular-subarray) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0739-daily-temperatures](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Simulation
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0739-daily-temperatures](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0739-daily-temperatures) |
 ## Math
 |  |
 | ------- |
