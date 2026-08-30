@@ -7,7 +7,6 @@ class Solution:
     def reverseKGroup(self, head: Optional[ListNode], k: int) -> Optional[ListNode]:
         dummy=ListNode(0)
         dummy.next=head
-
         grp_prev=dummy
 
         while True:
@@ -21,18 +20,16 @@ class Solution:
 
             grp_next=kth.next
 
-            prev=grp_next
             curr=grp_prev.next
+            prev=grp_next
 
             while curr!=grp_next:
                 next_node=curr.next
                 curr.next=prev
                 prev=curr
                 curr=next_node
-
+            
             old_start=grp_prev.next
             grp_prev.next=kth
 
             grp_prev=old_start
-
-                
