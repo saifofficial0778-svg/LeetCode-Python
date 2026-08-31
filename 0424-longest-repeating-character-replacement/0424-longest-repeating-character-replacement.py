@@ -1,11 +1,10 @@
 class Solution:
     def characterReplacement(self, s: str, k: int) -> int:
         mydict={}
-        n=len(s)
-        max_freq=0
         left=0
+        max_freq=0
         max_len=float('-inf')
-        for right in range(n):
+        for right in range(len(s)):
             if s[right] not in mydict:
                 mydict[s[right]]=1
             else:
@@ -17,5 +16,7 @@ class Solution:
                 if mydict[s[left]]==0:
                     del mydict[s[left]]
                 left+=1
+        
             max_len=max(max_len,right-left+1)
         return max_len
+
