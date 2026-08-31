@@ -20,10 +20,10 @@ class Solution:
                     break
                 grp_end=grp_end.next
                 actual_len+=1
+
             grp_next=grp_end.next
 
             if actual_len%2==0:
-
                 curr=grp_prev.next
                 prev=grp_next
 
@@ -41,4 +41,3 @@ class Solution:
                 grp_prev=grp_end
             grp_len+=1
         return dummy.next
-                
