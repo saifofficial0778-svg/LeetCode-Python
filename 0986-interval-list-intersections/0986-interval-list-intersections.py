@@ -1,8 +1,7 @@
 class Solution:
     def intervalIntersection(self, firstList: List[List[int]], secondList: List[List[int]]) -> List[List[int]]:
-        n=len(firstList)
-        m=len(secondList)
         i,j=0,0
+        n,m=len(firstList),len(secondList)
         res=[]
 
         while i<n and j<m:
@@ -16,3 +15,5 @@ class Solution:
             else:
                 j+=1
         return res
+        
+
