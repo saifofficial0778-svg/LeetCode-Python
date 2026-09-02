@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0020-valid-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0049-group-anagrams) |
+| [0071-simplify-path](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0242-valid-anagram) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0071-simplify-path) |
 | [0143-reorder-list](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0503-next-greater-element-ii) |
