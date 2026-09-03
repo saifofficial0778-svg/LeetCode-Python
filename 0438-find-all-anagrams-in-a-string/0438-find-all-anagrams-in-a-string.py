@@ -1,15 +1,15 @@
 class Solution:
     def findAnagrams(self, s: str, p: str) -> List[int]:
         mydict={}
-        for i in range(0,len(p)):
+        for i in range(len(p)):
             if p[i] not in mydict:
                 mydict[p[i]]=1
             else:
                 mydict[p[i]]+=1
         temp={}
-        res=[]
         left=0
-        for right in range(0,len(s)):
+        res=[]
+        for right in range(len(s)):
             if s[right] not in temp:
                 temp[s[right]]=1
             else:
@@ -22,3 +22,4 @@ class Solution:
             if temp==mydict:
                 res.append(left)
         return res
+                
