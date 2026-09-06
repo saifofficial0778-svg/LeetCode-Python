@@ -16,8 +16,8 @@ class Solution:
 
         dummy=ListNode(0)
         curr=dummy
-
         for val in stack:
             curr.next=ListNode(val)
             curr=curr.next
         return dummy.next
+            
