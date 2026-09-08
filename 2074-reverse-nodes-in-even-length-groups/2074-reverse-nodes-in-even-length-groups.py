@@ -7,11 +7,11 @@ class Solution:
     def reverseEvenLengthGroups(self, head: Optional[ListNode]) -> Optional[ListNode]:
         dummy=ListNode(0)
         dummy.next=head
-
+        
         grp_prev=dummy
         grp_len=1
 
-        while grp_prev.next:
+        while grp_prev.next :
             grp_end=grp_prev
             actual_len=0
 
@@ -39,5 +39,7 @@ class Solution:
                 grp_prev=old_start
             else:
                 grp_prev=grp_end
+
             grp_len+=1
         return dummy.next
+            
