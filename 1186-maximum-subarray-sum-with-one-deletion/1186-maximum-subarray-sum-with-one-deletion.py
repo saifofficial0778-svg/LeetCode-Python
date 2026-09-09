@@ -4,15 +4,17 @@ class Solution:
         res=arr[0]
         keep=arr[0]
         curr_sum=0
+
         for i in range(1,len(arr)):
             curr_sum=arr[i]
 
-            old_keep=keep
             old_dlt=delete
+            old_keep=keep
 
-            keep=max(old_keep+curr_sum,curr_sum)
-            delete=max(old_dlt+curr_sum,old_keep)
-
+            keep=max(old_keep+arr[i],arr[i])
+            delete=max(old_dlt+arr[i],old_keep)
             res=max(res,keep,delete)
         return res
+
+
         
