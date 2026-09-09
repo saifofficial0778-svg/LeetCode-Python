@@ -4,16 +4,16 @@ class Solution:
 
         for ch in s:
             freq[ch]=freq.get(ch,0)+1
-        
-        ans=0
-        odd=False
 
+        odd=False
+        ans=0
         for count in freq.values():
             ans+=(count//2)*2
-
-            if count%2==1:
+            if count%2!=0:
                 odd=True
 
         if odd:
             ans+=1
         return ans
+
+            
