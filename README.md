@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0704-binary-search](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0739-daily-temperatures) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0287-find-the-duplicate-number) |
 | [0327-count-of-range-sum](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0327-count-of-range-sum) |
+| [0704-binary-search](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0713-subarray-product-less-than-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
