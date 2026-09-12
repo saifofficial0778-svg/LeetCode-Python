@@ -7,13 +7,12 @@ class Solution:
 
         odd=False
         ans=0
+
         for count in freq.values():
             ans+=(count//2)*2
-            if count%2!=0:
+            if count%2==1:
                 odd=True
-
+        
         if odd:
             ans+=1
         return ans
-
-            
