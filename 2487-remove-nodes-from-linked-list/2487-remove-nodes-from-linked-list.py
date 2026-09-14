@@ -7,17 +7,17 @@ class Solution:
     def removeNodes(self, head: Optional[ListNode]) -> Optional[ListNode]:
         stack=[]
         curr=head
-
         while curr:
+
             while stack and stack[-1]<curr.val:
                 stack.pop()
+            
             stack.append(curr.val)
             curr=curr.next
 
         dummy=ListNode(0)
         curr=dummy
-        for val in stack:
-            curr.next=ListNode(val)
+        for num in stack:
+            curr.next=ListNode(num)
             curr=curr.next
         return dummy.next
-            
