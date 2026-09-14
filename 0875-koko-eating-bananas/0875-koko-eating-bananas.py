@@ -1,5 +1,6 @@
 class Solution:
     def minEatingSpeed(self, piles: List[int], h: int) -> int:
+        n=len(piles)
         low,high=1,max(piles)
 
         while low<high:
@@ -14,5 +15,5 @@ class Solution:
                 high=k
             else:
                 low=k+1
-
         return low
+
