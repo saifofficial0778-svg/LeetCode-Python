@@ -1,14 +1,13 @@
 class Solution:
     def canConstruct(self, ransomNote: str, magazine: str) -> bool:
-        source = {}
+        mydict={}
 
         for ch in magazine:
-            source[ch] = source.get(ch, 0) + 1
+            mydict[ch]=mydict.get(ch,0)+1
 
         for ch in ransomNote:
-            if ch not in source or source[ch] == 0:
+            if ch not in magazine or mydict[ch]==0:
                 return False
 
-            source[ch] -= 1
-
+            mydict[ch]-=1
         return True
