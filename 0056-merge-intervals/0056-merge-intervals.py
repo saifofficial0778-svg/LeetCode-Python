@@ -1,9 +1,9 @@
 class Solution:
-    def merge(self, intervals: List[List[int]]) -> List[List[int]]:
+    def merge(self, intervals: list[list[int]]) -> list[list[int]]:
         intervals.sort()
+        res=[]
         start=intervals[0][0]
         end=intervals[0][1]
-        res=[]
 
         for i in range(1,len(intervals)):
             start1=intervals[i][0]
@@ -18,4 +18,3 @@ class Solution:
         res.append([start,end])
         return res
             
-
