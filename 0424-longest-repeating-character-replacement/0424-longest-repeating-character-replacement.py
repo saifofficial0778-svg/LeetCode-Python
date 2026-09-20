@@ -3,8 +3,7 @@ class Solution:
         mydict={}
         left=0
         max_len=0
-        max_freq=0
-        freq=0           
+        max_freq=0          
         for right in range(len(s)):
             mydict[s[right]]=mydict.get(s[right],0)+1
 
