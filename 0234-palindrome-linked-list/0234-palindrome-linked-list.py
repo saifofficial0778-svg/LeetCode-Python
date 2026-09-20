@@ -4,7 +4,7 @@
 #         self.val = val
 #         self.next = next
 class Solution:
-    def isPalindrome(self, head: Optional[ListNode]) -> bool:
+    def isPalindrome(self, head: ListNode | None) -> bool:
         slow=head
         fast=head
 
@@ -20,7 +20,7 @@ class Solution:
             curr.next=prev
             prev=curr
             curr=next_node
-
+            
         slow=head
         curr=prev
 
