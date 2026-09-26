@@ -4,10 +4,9 @@
 #         self.val = val
 #         self.next = next
 class Solution:
-    def reverseKGroup(self, head: Optional[ListNode], k: int) -> Optional[ListNode]:
+    def reverseKGroup(self, head: ListNode | None, k: int) -> ListNode | None:
         dummy=ListNode(0)
         dummy.next=head
-
         grp_prev=dummy
 
         while True:
@@ -16,8 +15,8 @@ class Solution:
             for _ in range(k):
                 if kth.next is None:
                     return dummy.next
-
                 kth=kth.next
+
             grp_next=kth.next
 
             curr=grp_prev.next
@@ -33,3 +32,5 @@ class Solution:
             grp_prev.next=kth
 
             grp_prev=old_start
+
+            
