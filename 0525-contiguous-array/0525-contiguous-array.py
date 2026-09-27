@@ -5,14 +5,16 @@ class Solution:
         for i in range(len(nums)):
             if nums[i]==0:
                 nums[i]=-1
-
-        curr_sum=0
+        prefix_sum=0
         for i in range(len(nums)):
-            curr_sum+=nums[i]
+            prefix_sum+=nums[i]
 
-            if curr_sum in mydict:
-                max_len=max(max_len,i-mydict[curr_sum])
-
+            if prefix_sum in mydict:
+                max_len=max(max_len,i-mydict[prefix_sum])
             else:
-                mydict[curr_sum]=i
+                mydict[prefix_sum]=i
+            
         return max_len
+
+
+
