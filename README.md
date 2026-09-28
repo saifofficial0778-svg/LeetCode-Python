@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0287-find-the-duplicate-number) |
 | [0327-count-of-range-sum](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0327-count-of-range-sum) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0503-next-greater-element-ii) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0268-missing-number) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0275-h-index-ii](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0287-find-the-duplicate-number) |
 | [0327-count-of-range-sum](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0327-count-of-range-sum) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0713-subarray-product-less-than-k) |
@@ -323,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0240-search-a-2d-matrix-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -357,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Binary Indexed Tree
 |  |
