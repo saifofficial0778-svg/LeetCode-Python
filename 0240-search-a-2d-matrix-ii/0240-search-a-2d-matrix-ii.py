@@ -2,10 +2,13 @@ class Solution:
     def searchMatrix(self, matrix: List[List[int]], target: int) -> bool:
         row,col=0,len(matrix[0])-1
 
-        while col>=0 and row<len(matrix):
-            if matrix[row][col]==target:
+        while row<len(matrix) and col>=0:
+            value=matrix[row][col]
+
+            if value==target:
                 return True
-            elif matrix[row][col]>target:
+
+            elif value>target:
                 col-=1
             else:
                 row+=1
