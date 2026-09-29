@@ -1,25 +1,25 @@
 class Solution:
-    def search(self, nums: List[int], target: int) -> int:
-        n=len(nums)
-        low,high=0,n-1
+    def search(self, nums: list[int], target: int) -> int:
+        low,high=0,len(nums)-1
 
         while low<=high:
             mid=(low+high)//2
+
             if nums[mid]==target:
                 return mid
             if nums[mid]==nums[low]==nums[high]:
                 low+=1
                 high-=1
                 continue
-
+            
             if nums[mid]<=nums[high]:
-                if nums[mid]<=target<=nums[high]:
+                if nums[mid]<target<=nums[high]:
                     low=mid+1
                 else:
                     high=mid-1
 
             else:
-                if nums[low]<=target<=nums[mid]:
+                if nums[low]<=target<nums[mid]:
                     high=mid-1
                 else:
                     low=mid+1
