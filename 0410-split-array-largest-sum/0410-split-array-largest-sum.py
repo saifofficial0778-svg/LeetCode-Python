@@ -5,13 +5,13 @@ class Solution:
         while low<=high:
             mid=(low+high)//2
 
-            curr_sum=0
             count=1
+            curr_sum=0
 
             for num in nums:
                 curr_sum+=num
 
-                if  curr_sum>mid:
+                if curr_sum>mid:
                     count+=1
                     curr_sum=num
 
