@@ -16,10 +16,9 @@ class Solution:
                     count+=row+1
                 else:
                     row-=1
-            
+                
             if count<k:
                 low=mid+1
             else:
                 high=mid-1
         return low
-
