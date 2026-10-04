@@ -5,13 +5,15 @@ class Solution:
         for ch in s:
             if stack and stack[-1][0]==ch:
                 stack[-1][1]+=1
+
                 if stack[-1][1]==k:
-                    stack.pop()
+                   stack.pop()
             else:
                 stack.append([ch,1])
 
-        ans=""
+        res=""
+        for ch ,count in stack:
+            res+=ch*count
 
-        for ch , num in stack:
-            ans+=ch*num
-        return ans
+        return res
+        
