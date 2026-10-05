@@ -1,21 +1,22 @@
 import heapq
-
 class Solution:
     def topKFrequent(self, nums: list[int], k: int) -> list[int]:
-        mydict = {}
-
+        mydict={}
         for num in nums:
-            mydict[num] = mydict.get(num, 0) + 1
+            mydict[num]=mydict.get(num,0)+1
 
-        heap = []
+        heap=[]
 
-        for num, freq in mydict.items():
-            heapq.heappush(heap, (freq, num))
+        for num,freq in mydict.items():
+            heapq.heappush(heap,(freq,num))
 
             if len(heap)>k:
-                freq, num = heapq.heappop(heap)
+                heapq.heappop(heap)
         ans=[]
         for freq,num in heap:
             ans.append(num)
-            
         return ans
+
+
+        
+        
