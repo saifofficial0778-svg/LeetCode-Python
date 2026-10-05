@@ -9,6 +9,7 @@ class Solution:
             row=n-1
             col=0
             count=0
+            
 
             while row>=0 and col<n:
                 if matrix[row][col]<=mid:
@@ -16,7 +17,7 @@ class Solution:
                     count+=row+1
                 else:
                     row-=1
-                
+
             if count<k:
                 low=mid+1
             else:
