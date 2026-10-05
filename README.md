@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0692-top-k-frequent-words](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0724-find-pivot-index) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0692-top-k-frequent-words](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0692-top-k-frequent-words) |
 | [0977-squares-of-a-sorted-array](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0567-permutation-in-string) |
+| [0692-top-k-frequent-words](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0692-top-k-frequent-words) |
 | [0904-fruit-into-baskets](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/1189-maximum-number-of-balloons) |
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0567-permutation-in-string) |
+| [0692-top-k-frequent-words](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0692-top-k-frequent-words) |
 | [0844-backspace-string-compare](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/1189-maximum-number-of-balloons) |
@@ -324,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0387-first-unique-character-in-a-string) |
+| [0692-top-k-frequent-words](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0692-top-k-frequent-words) |
 | [1189-maximum-number-of-balloons](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/1189-maximum-number-of-balloons) |
 ## Union-Find
 |  |
@@ -374,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0692-top-k-frequent-words](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0692-top-k-frequent-words) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Binary Indexed Tree
 |  |
@@ -422,4 +428,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0692-top-k-frequent-words) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
