@@ -10,12 +10,12 @@ class Solution:
         heap = []
 
         for num, freq in mydict.items():
-            heapq.heappush(heap, (-freq, num))
+            heapq.heappush(heap, (freq, num))
 
-        ans = []
-
-        for _ in range(k):
-            freq, num = heapq.heappop(heap)
+            if len(heap)>k:
+                freq, num = heapq.heappop(heap)
+        ans=[]
+        for freq,num in heap:
             ans.append(num)
-
+            
         return ans
