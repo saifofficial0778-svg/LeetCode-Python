@@ -5,19 +5,16 @@ class Solution:
         while low<=high:
             mid=(low+high)//2
 
-            day=1
-            curr_sum=0
-            for weight in weights:
-                curr_sum+=weight
-                if curr_sum>mid:
-                    day+=1
-                    curr_sum=weight
+            count=1
+            curr_w=0
+            for w in weights:
+                curr_w+=w
 
-            if day<=days:
+                if curr_w>mid:
+                    count+=1
+                    curr_w=w
+            if count<=days:
                 high=mid-1
             else:
                 low=mid+1
         return low
-            
-
-
