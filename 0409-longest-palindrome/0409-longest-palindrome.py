@@ -6,11 +6,13 @@ class Solution:
 
         odd=False
         ans=0
+        for ch in mydict.values():
+            ans+=(ch//2)*2
 
-        for value in mydict.values():
-            ans+=(value//2)*2
-            if value%2==1:
+            if ch%2!=0:
                 odd=True
         if odd:
             ans+=1
         return ans
+            
+
