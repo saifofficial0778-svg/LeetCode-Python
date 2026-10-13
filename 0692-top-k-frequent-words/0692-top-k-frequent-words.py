@@ -2,17 +2,17 @@ import heapq
 class Solution:
     def topKFrequent(self, words: list[str], k: int) -> list[str]:
         mydict={}
+
         for ch in words:
             mydict[ch]=mydict.get(ch,0)+1
 
         heap=[]
 
-        for num,freq in mydict.items():
-            heapq.heappush(heap,(-freq,num))
+        for word , freq in mydict.items():
+            heapq.heappush(heap,(-freq,word))
 
         ans=[]
-
         for _ in range(k):
-            freq,num=heapq.heappop(heap)
-            ans.append(num)
+            freq , word = heapq.heappop(heap)
+            ans.append(word)
         return ans
