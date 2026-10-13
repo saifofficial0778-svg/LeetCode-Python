@@ -5,7 +5,7 @@ class Solution:
 
         while low<=high:
             guess=(low+high)//2
-            
+
             row=guess//n
             col=guess%n
 
@@ -15,5 +15,4 @@ class Solution:
                 high=guess-1
             else:
                 low=guess+1
-            
         return False
