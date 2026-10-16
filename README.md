@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0621-task-scheduler](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0704-binary-search) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0621-task-scheduler](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0692-top-k-frequent-words) |
 | [0973-k-closest-points-to-origin](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0973-k-closest-points-to-origin) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0567-permutation-in-string) |
+| [0621-task-scheduler](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0692-top-k-frequent-words) |
 | [0904-fruit-into-baskets](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -281,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0410-split-array-largest-sum) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0621-task-scheduler](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0621-task-scheduler) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -341,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0387-first-unique-character-in-a-string) |
+| [0621-task-scheduler](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0692-top-k-frequent-words) |
 | [1189-maximum-number-of-balloons](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/1189-maximum-number-of-balloons) |
 ## Union-Find
@@ -393,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0621-task-scheduler](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0692-top-k-frequent-words) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
