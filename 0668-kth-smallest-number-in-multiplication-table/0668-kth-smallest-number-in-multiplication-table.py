@@ -6,7 +6,7 @@ class Solution:
             mid=(low+high)//2
 
             count=0
-            
+
             for i in range(1,m+1):
                 count+=min(mid//i,n)
 
@@ -15,4 +15,3 @@ class Solution:
             else:
                 high=mid-1
         return low
-        
