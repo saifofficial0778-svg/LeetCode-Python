@@ -13,8 +13,10 @@ class Solution:
                 continue
             else:
                 heapq.heappush(heap,-(y-x))
+        
         if heap:
             return -heapq.heappop(heap)
         else:
             return 0
+
         
