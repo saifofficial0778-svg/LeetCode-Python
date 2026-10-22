@@ -11,11 +11,11 @@ class Solution:
                     return -1
                 fuel+=-heapq.heappop(heap)
                 stop+=1
-
             heapq.heappush(heap,-gas)
+
         while fuel<target:
             if not heap:
                 return -1
             fuel+=-heapq.heappop(heap)
             stop+=1
-        return stop
+        return stop        
