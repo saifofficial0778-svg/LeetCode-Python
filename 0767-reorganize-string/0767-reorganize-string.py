@@ -6,13 +6,12 @@ class Solution:
         for ch in s:
             freq[ch]=freq.get(ch,0)+1
 
-        heap=[(-count ,ch) for ch,count in freq.items()]
+        heap=[(-count,ch) for ch , count in freq.items()]
         heapq.heapify(heap)
 
-        d=deque()
         time=0
+        d=deque()
         ans=""
-
         while heap or d:
             time+=1
 
@@ -22,18 +21,14 @@ class Solution:
 
             if heap:
                 count,ch=heapq.heappop(heap)
+                count+=1
                 ans+=ch
 
-                count+=1
-
                 if count<0:
-                    d.append((count,ch,time+2))
+                    d.append([count,ch,time+2])
             elif d:
                 return ""
+            
         return ans
-
-
-
-        
 
         
