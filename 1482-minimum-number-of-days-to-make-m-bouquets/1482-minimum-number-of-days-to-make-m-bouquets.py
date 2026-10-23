@@ -1,26 +1,27 @@
 class Solution:
     def minDays(self, bloomDay: list[int], m: int, k: int) -> int:
-        if m*k>len(bloomDay):
+        n=len(bloomDay)
+        if n<m*k:
             return -1
         low,high=1,max(bloomDay)
 
         while low<=high:
-            day=(low+high)//2
+            mid=(low+high)//2
 
-            flowers=0
-            bouquets=0
+            f=0
+            b=0
 
             for bloom in bloomDay:
-                if bloom<=day:
-                    flowers+=1
-                    if flowers==k:
-                        bouquets+=1
-                        flowers=0
+                if bloom<=mid:
+                    f+=1
+                    if f==k:
+                        b+=1
+                        f=0
                 else:
-                    flowers=0
+                    f=0
                 
-            if bouquets>=m:
-                high=day-1
+            if b>=m:
+                high=mid-1
             else:
-                low=day+1
+                low=mid+1
         return low
