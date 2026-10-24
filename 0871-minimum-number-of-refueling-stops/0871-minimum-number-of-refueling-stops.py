@@ -18,4 +18,7 @@ class Solution:
                 return -1
             fuel+=-heapq.heappop(heap)
             stop+=1
-        return stop        
+        return stop
+
+                
+        
