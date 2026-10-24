@@ -2,14 +2,15 @@ import heapq
 class Solution:
     def scheduleCourse(self, courses: List[List[int]]) -> int:
         courses.sort(key=lambda x: x[1])
-        heap=[]
+
         total=0
+        heap=[]
 
-        for duration , last_day in courses:
+        for duration , lastDay in courses:
             total+=duration
-            heapq.heappush(heap,-duration) 
+            heapq.heappush(heap,-duration)
 
-            if total>last_day:
+            if total>lastDay:
                 longest=-heapq.heappop(heap)
-                total-=longest      
+                total-=longest
         return len(heap)
