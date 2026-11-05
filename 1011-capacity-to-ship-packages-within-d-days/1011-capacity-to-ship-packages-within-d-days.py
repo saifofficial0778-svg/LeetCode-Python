@@ -6,15 +6,16 @@ class Solution:
             mid=(low+high)//2
 
             count=1
-            curr_w=0
-            for w in weights:
-                curr_w+=w
+            w_sum=0
 
-                if curr_w>mid:
+            for weight in weights:
+                w_sum+=weight
+                if w_sum>mid:
                     count+=1
-                    curr_w=w
+                    w_sum=weight
             if count<=days:
                 high=mid-1
             else:
                 low=mid+1
         return low
+                
