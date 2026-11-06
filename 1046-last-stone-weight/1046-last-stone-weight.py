@@ -6,17 +6,16 @@ class Solution:
             heapq.heappush(heap,-stone)
 
         while len(heap)>1:
-            y=-heapq.heappop(heap)
             x=-heapq.heappop(heap)
+            y=-heapq.heappop(heap)
 
-            if x==y:
+            if x-y==0:
                 continue
             else:
-                heapq.heappush(heap,-(y-x))
-        
+                heapq.heappush(heap,-(x-y))
+
         if heap:
             return -heapq.heappop(heap)
         else:
             return 0
-
         
