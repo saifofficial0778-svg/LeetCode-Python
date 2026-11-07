@@ -9,26 +9,27 @@ class Solution:
         heap=[(-count,ch) for ch , count in freq.items()]
         heapq.heapify(heap)
 
-        time=0
         d=deque()
+        time=0
         ans=""
+
         while heap or d:
             time+=1
 
-            if d and d[0][2]<=time:
+            while d and d[0][2]<=time:
                 count,ch,release_time=d.popleft()
                 heapq.heappush(heap,(count,ch))
 
             if heap:
                 count,ch=heapq.heappop(heap)
-                count+=1
                 ans+=ch
 
+                count+=1
+
                 if count<0:
-                    d.append([count,ch,time+2])
+                    d.append((count,ch,time+2))
             elif d:
                 return ""
-            
         return ans
 
         
