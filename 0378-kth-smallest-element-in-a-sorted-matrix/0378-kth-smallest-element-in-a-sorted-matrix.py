@@ -1,6 +1,7 @@
 class Solution:
     def kthSmallest(self, matrix: list[list[int]], k: int) -> int:
         n=len(matrix)
+
         low,high=matrix[0][0],matrix[n-1][n-1]
 
         while low<=high:
@@ -9,6 +10,7 @@ class Solution:
             row=n-1
             col=0
             count=0
+
             while row>=0 and col<n:
                 if matrix[row][col]<=guess:
                     col+=1
