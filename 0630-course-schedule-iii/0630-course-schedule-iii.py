@@ -2,9 +2,8 @@ import heapq
 class Solution:
     def scheduleCourse(self, courses: List[List[int]]) -> int:
         courses.sort(key=lambda x: x[1])
-
-        total=0
         heap=[]
+        total=0
 
         for duration , lastDay in courses:
             total+=duration
