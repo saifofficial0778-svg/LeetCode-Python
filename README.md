@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0071-simplify-path) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0152-maximum-product-subarray) |
@@ -454,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0022-generate-parentheses) |
 ## Ternary Search
 |  |
 | ------- |
@@ -496,4 +499,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0509-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/saifofficial0778-svg/LeetCode-Python/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
