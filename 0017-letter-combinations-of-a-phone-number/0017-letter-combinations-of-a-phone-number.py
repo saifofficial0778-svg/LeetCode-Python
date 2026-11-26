@@ -1,8 +1,6 @@
-
 class Solution:
     def letterCombinations(self, digits: str) -> list[str]:
-        result = []
-
+        result=[]
         if not digits:
             return result
 
@@ -17,15 +15,15 @@ class Solution:
             "9": "wxyz"
         }
 
-        def solve(i, path):
-            if i == len(digits):
+        def solve(i,path):
+            if len(path)==len(digits):
                 result.append(path)
-                return
+                return 
 
-            letters = mapping[digits[i]]
+            letters=mapping[digits[i]]
 
             for ch in letters:
-                solve(i + 1, path + ch)
+                solve(i+1,path+ch)
 
-        solve(0, "")
+        solve(0,"")
         return result
